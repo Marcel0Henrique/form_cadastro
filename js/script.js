@@ -27,6 +27,6 @@ function vazio() {
     }
     
     else{
-        window.location.href = "";
+        
     }
 }
